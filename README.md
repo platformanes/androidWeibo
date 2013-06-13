@@ -7,7 +7,7 @@
 
 ## 资源
 
-* 官方网站 [baidu](http://open.weibo.com/development/mobile)
+* 官方网站 [Weibo](http://open.weibo.com/development/mobile)
 * [开放下载地址](https://github.com/mobileresearch/weibo_android_sdk)
 * [官方ANE](https://code.google.com/p/weibosdk/)
 
