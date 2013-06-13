@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding ="utf-8"?>
+<swc xmlns="http://www.adobe.com/flash/swccatalog/9">
+  <versions>
+    <swc version="1.2" />
+    <flex version="4.6.0" build="23201" minimumSupportedVersion="3.0.0" />
+  </versions>
+  <features>
+    <feature-script-deps />
+    <feature-files />
+  </features>
+  <libraries>
+    <library path="library.swf">
+      <script name="com/weibo/ane/WeiboEvents" mod="1371139872000" signatureChecksum="2731825047" >
+        <def id="com.weibo.ane:WeiboEvents" /> 
+        <dep id="AS3" type="n" /> 
+        <dep id="Object" type="i" /> 
+      </script>
+      <script name="_d29d853d85c20f8c420f3a79b6c7f86810411c90343c93e33da4e89e43fa5415_flash_display_Sprite" mod="1371139886140" signatureChecksum="2590079275" >
+        <def id="_d29d853d85c20f8c420f3a79b6c7f86810411c90343c93e33da4e89e43fa5415_flash_display_Sprite" /> 
+        <dep id="flash.system:Security" type="e" /> 
+        <dep id="AS3" type="n" /> 
+        <dep id="flash.display:Sprite" type="i" /> 
+      </script>
+      <script name="com/weibo/ane/WeiboExtension" mod="1371139796000" signatureChecksum="1797842213" >
+        <def id="com.weibo.ane:WeiboExtension" /> 
+        <dep id="flash.events:StatusEvent" type="e" /> 
+        <dep id="flash.external:ExtensionContext" type="e" /> 
+        <dep id="flash.events:IEventDispatcher" type="s" /> 
+        <dep id="flash.events:StatusEvent" type="s" /> 
+        <dep id="flash.external:ExtensionContext" type="s" /> 
+        <dep id="AS3" type="n" /> 
+        <dep id="flash.events:EventDispatcher" type="i" /> 
+      </script>
+      <digests>
+        <digest type="SHA-256" signed="false" value="7467689e17bd29bcc63c70bd86183e11a849631523fcc6edaee0c815d9deaf61"   />
+      </digests>
+    </library>
+  </libraries>
+  <files>
+  </files>
+</swc>

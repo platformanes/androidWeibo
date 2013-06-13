@@ -1,0 +1,1 @@
+"E:\FLEX\Flex4.6\Adobe Flash Builder 4.6\sdks\newAIR\bin\adt" -package -storetype PKCS12 -keystore rect.p12 -storepass 1234 -target ane com.weibo.ane extension.xml -swc *.swc -platform Android-ARM -C Android-ARM . 

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<extension xmlns="http://ns.adobe.com/air/extension/3.5">
+  <id>com.weibo.ane</id>
+  <versionNumber>1</versionNumber>
+  <platforms>
+  
+    <platform name="Android-ARM">
+      <applicationDeployment>
+        <nativeLibrary>weiboane.jar</nativeLibrary>
+        <initializer>com.weibo.ane.WeiboExtension</initializer>
+        <finalizer>com.weibo.ane.WeiboExtension</finalizer>
+      </applicationDeployment>
+    </platform>
+    
+  </platforms>
+</extension>
